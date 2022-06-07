@@ -1,6 +1,6 @@
 # 2022년도 모드 6번째 과제
 - dropdown.mp4 영상을 참고하여 드롭다운을 구현한다.
-https://user-images.githubusercontent.com/71883310/172359284-bc29e4eb-84d3-406c-9d92-c45834eee601.mp4
+https://user-images.githubusercontent.com/71883310/172359470-0c39fb4b-3de2-4728-b342-aa33687a7bfd.mov
 
 ### 제출방법
 - 폴더 이름은 '과제5-홍길동' index.html, css폴더 
