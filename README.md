@@ -1,5 +1,5 @@
-# 2022년도 모드 6번째 과제
-- dropdown.mp4 영상을 참고하여 드롭다운을 구현한다.
+# 모드 동아리 여덟번째 과제
+- 아래 영상을 참고하여 드롭다운을 구현한다.
 
 https://user-images.githubusercontent.com/71883310/172359470-0c39fb4b-3de2-4728-b342-aa33687a7bfd.mov
 
